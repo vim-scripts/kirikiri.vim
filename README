@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3273
+
+repository: http://github.com/tyru/kirikiri.vim
+
+
+吉里吉里のsyntaxファイルです。
+syntax/tjs.vimがあればiscript, endscriptの間もハイライトします。
+(syntax/tjs.vimはまだ開発中です)
+
+syntax file for kirikiri.
+If syntax/tjs.vim is installed,
+it highlights between iscript, endscript.
+(NOTE: syntax/tjs.vim is under development)
